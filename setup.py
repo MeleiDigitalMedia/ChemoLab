@@ -8,7 +8,7 @@ setup(
     author='MeleiDigitalMedia',
     author_email='meleidigitalmedia@gmail.com',
     url='https://github.com/MeleiDigitalMedia/ChemoLab/',
-    download_url='https://github.com/MeleiDigitalMedia/ChemoLab/archive/1.0.0.tar.gz',
+    download_url='https://github.com/MeleiDigitalMedia/ChemoLab/archive/1.0.0-beta.tar.gz',
     license='MIT',
     python_requires='>=3.8',
     include_package_data=True
